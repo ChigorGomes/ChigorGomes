@@ -2,7 +2,23 @@
 
 ###
 
-<p align="left">Hello, I’m Cícero Higor, a 29-year-old software developer from Manaus, AM. I hold a degree in Computer Science from the Federal University of Amazonas (UFAM). Currently, I work as a Java Developer at CI&T, where I specialize in a variety of technologies including Java, Spring Boot, AWS,  Apache NiFi and requirement analysis.<br><br>In addition to my professional experience, I am committed to continuous learning and professional growth. I am currently enrolled in an advanced course on Development, Technology, and Innovation in Android and Embedded Systems, offered jointly by UFAM and Motorola. This course is helping me deepen my expertise and stay at the forefront of technological advancements.<br><br>With solid experience in software development and a particular focus on retail and e-commerce, I am passionate about creating technological solutions that drive growth and innovation in the sector. My goal is to contribute to digital transformation and optimize the online shopping experience.</p>
+<p align="left">
+# 👋 Olá, eu sou Cícero Higor
+
+Sou desenvolvedor de software com 29 anos, baseado em Manaus (AM), graduado em Ciência da Computação pela UFAM.
+
+💻 Atualmente, atuo como desenvolvedor Java na CI&T, trabalhando com tecnologias e práticas como Java, Spring Boot, AWS, microsserviços, Docker, Apache NiFi, análise de requisitos, entre outros.
+
+🚀 Tenho forte interesse em evolução contínua e aprimoramento técnico. Em 2024, concluí o curso avançado de Desenvolvimento, Tecnologia e Inovação em Android e Sistemas Embarcados (UFAM + Motorola) e, no momento, estou me especializando em Desenvolvimento Full Stack pela mesma parceria.
+
+📚 Busco constantemente aprofundar meus conhecimentos e acompanhar as transformações tecnológicas, com foco em construir soluções eficientes, escaláveis e de alto impacto.
+
+---
+
+🔎 Aqui você encontrará projetos, estudos e experimentações que refletem minha jornada como desenvolvedor.
+
+  
+</p>
 
 ###
 
