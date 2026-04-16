@@ -1,9 +1,7 @@
-<h2 align="left">About Me</h2>
-
 ###
 
 <p align="left">
-# 👋 Olá, eu sou Cícero Higor
+👋 Olá, eu sou Cícero Higor
 
 Sou desenvolvedor de software com 29 anos, baseado em Manaus (AM), graduado em Ciência da Computação pela UFAM.
 
