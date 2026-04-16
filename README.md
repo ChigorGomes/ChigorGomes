@@ -3,7 +3,7 @@
 <p align="left">
 👋 Olá, eu sou Cícero Higor
 
-Sou desenvolvedor de software com 29 anos, baseado em Manaus (AM), graduado em Ciência da Computação pela UFAM.
+Sou desenvolvedor de software com 29 anos, moro em Manaus (AM), sou graduado em Ciência da Computação pela UFAM.
 
 💻 Atualmente, atuo como desenvolvedor Java na CI&T, trabalhando com tecnologias e práticas como Java, Spring Boot, AWS, microsserviços, Docker, Apache NiFi, análise de requisitos, entre outros.
 
